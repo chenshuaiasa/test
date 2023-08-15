@@ -1,7 +1,7 @@
 <template>
   <div class="container-property2">
-    <div class="property-name">sad </div>
-    <div class="property-rent"><sad /div>
+    <div class="property-name">gaidong zujina </div>
+    <div class="property-rent"></div>
   </div>
 </template>
 <script>
