@@ -2,7 +2,7 @@
   <div class="container-property2">
     <div class="property-name">gaidong zujina </div>
     <div class="property-rent"></div>
-  </div>
+q  </div>
 </template>
 <script>
 export default {
