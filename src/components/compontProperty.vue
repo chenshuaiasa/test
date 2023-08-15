@@ -1,7 +1,7 @@
 <template>
   <div class="container-property2">
-    <div class="property-name"></div>
-    <div class="property-rent"></div>
+    <div class="property-name">sad </div>
+    <div class="property-rent"><sad /div>
   </div>
 </template>
 <script>
